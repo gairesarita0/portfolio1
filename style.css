@@ -26,3 +26,13 @@ li {
   .active {
     background-color: #4CAF50;
   }
+
+  #hprofileimage {
+    border-radius: 500px;
+  }
+
+  .content {
+    margin:5px 20% 0px 20%;
+    padding: 5% 10% 10% 10%;
+    background-color: #ecf2a9
+  }
